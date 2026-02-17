@@ -8,7 +8,7 @@ This project showcases my skills, projects, and contact information in a structu
 ## 🔗 Live Demo
 
 🚀 **View Live Website:**  
-http://127.0.0.1:5500/HTML/index1.html
+https://vics055.github.io/FWD-Product-Showcase/
 
 ---
 
