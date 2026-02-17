@@ -61,3 +61,10 @@ To further improve the project, the following upgrades can be implemented:
 ---
 
 
+<img width="1914" height="868" alt="digiport1" src="https://github.com/user-attachments/assets/689298b0-9693-4934-85d7-97b484a48707" />
+
+<img width="1916" height="915" alt="Digital Portfolio" src="https://github.com/user-attachments/assets/5d297bfa-f943-41d4-b65d-94f6f000040d" />
+
+<img width="1916" height="921" alt="DigiPort" src="https://github.com/user-attachments/assets/c98be10a-b1f2-4244-af22-a236e38b6e1b" />
+
+
